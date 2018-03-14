@@ -50,6 +50,7 @@ h1 {
     padding-bottom: 20px;
     margin-top: 27px;
     font-size: 20px;
+
 }
 
 a {
@@ -97,7 +98,6 @@ h2 {
     font-size: 24px;
     border-bottom: 1px solid #dddddd;
     clear: both;
-    overflow: auto;
     color: #4aaa;
     margin: 0;
    
